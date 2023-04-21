@@ -30,7 +30,7 @@ using UnityEngine;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 
-namespace UnityMeshSimplifier.Editor
+namespace WUnityMeshSimplifier.Editor
 {
     [CustomEditor(typeof(LODGeneratorHelper))]
     internal sealed class LODGeneratorHelperEditor : UnityEditor.Editor
@@ -631,7 +631,7 @@ namespace UnityMeshSimplifier.Editor
 
             if (prefabGameObjects.Any())
             {
-                EditorUtility.DisplayDialog("Invalid GameObjects", "Some objects are not children of the LODGenerator GameObject," + 
+                EditorUtility.DisplayDialog("Invalid GameObjects", "Some objects are not children of the LODGenerator GameObject," +
                     " as well as being part of a prefab. They will not be added.", "OK");
             }
 #endif

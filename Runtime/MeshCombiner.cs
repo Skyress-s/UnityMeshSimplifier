@@ -28,7 +28,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// Contains methods for combining meshes.
@@ -437,7 +437,7 @@ namespace UnityMeshSimplifier
 #if UNITY_EDITOR
         private static System.Reflection.MethodInfo meshCanAccessMethodInfo;
 
-        // This is a workaround for a Unity peculiarity - 
+        // This is a workaround for a Unity peculiarity -
         // non-readable meshes are actually always accessible from the Editor.
         // We're still logging a warning since this won't work in a build.
         private static bool CanReadMeshInEditor(Mesh mesh)

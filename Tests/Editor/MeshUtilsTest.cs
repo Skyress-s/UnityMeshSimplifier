@@ -30,7 +30,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using NUnit.Framework;
 
-namespace UnityMeshSimplifier.Editor.Tests
+namespace WUnityMeshSimplifier.Editor.Tests
 {
     public class MeshUtilsTest
     {

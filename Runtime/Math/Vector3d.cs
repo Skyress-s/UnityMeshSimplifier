@@ -29,7 +29,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using UnityEngine;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// A double precision 3D vector.

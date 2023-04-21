@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     internal static class IOUtils
     {

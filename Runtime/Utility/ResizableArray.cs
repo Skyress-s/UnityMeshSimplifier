@@ -27,7 +27,7 @@ SOFTWARE.
 using System;
 using System.Runtime.CompilerServices;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// A resizable array with the goal of being quicker than List<T>.

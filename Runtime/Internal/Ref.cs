@@ -26,7 +26,7 @@ SOFTWARE.
 
 using System.Runtime.CompilerServices;
 
-namespace UnityMeshSimplifier.Internal
+namespace WUnityMeshSimplifier.Internal
 {
     internal struct Ref
     {

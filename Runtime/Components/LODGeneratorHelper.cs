@@ -26,7 +26,7 @@ SOFTWARE.
 
 using UnityEngine;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// A LOD (level of detail) generator helper.

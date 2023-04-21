@@ -27,7 +27,7 @@ SOFTWARE.
 using System;
 using System.Runtime.CompilerServices;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// Math helpers.

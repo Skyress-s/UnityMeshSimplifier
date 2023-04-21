@@ -27,7 +27,7 @@ SOFTWARE.
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
-namespace UnityMeshSimplifier.Internal
+namespace WUnityMeshSimplifier.Internal
 {
     internal struct BorderVertex
     {

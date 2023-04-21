@@ -26,7 +26,7 @@ SOFTWARE.
 
 using UnityEngine;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     [AddComponentMenu("")]
     internal class LODBackupComponent : MonoBehaviour

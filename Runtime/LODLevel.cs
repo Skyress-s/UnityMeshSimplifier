@@ -28,7 +28,7 @@ using System;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// A LOD (level of detail) level.

@@ -27,7 +27,7 @@ SOFTWARE.
 using System.Collections.Generic;
 using UnityEditor;
 
-namespace UnityMeshSimplifier.Editor
+namespace WUnityMeshSimplifier.Editor
 {
     internal static class SerializedPropertyExtensions
     {

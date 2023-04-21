@@ -45,9 +45,9 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
-using UnityMeshSimplifier.Internal;
+using WUnityMeshSimplifier.Internal;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// The mesh simplifier.

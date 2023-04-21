@@ -1,6 +1,6 @@
 using System;
 
-namespace UnityMeshSimplifier
+namespace WUnityMeshSimplifier
 {
     /// <summary>
     /// An exception thrown when validating simplification options.
